@@ -17,7 +17,7 @@
 <p>𝑰❜𝒎 𝑨𝒍𝒆𝒋𝒂𝒏𝒅𝒓𝒐, 𝒋𝒖𝒏𝒊𝒐𝒓 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓. 𝑰 𝒉𝒆𝒍𝒑 𝑪𝒐𝒎𝒑𝒂𝒏𝒊𝒆𝒔, 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍𝒔, 𝑪𝒐𝒏𝒔𝒖𝒍𝒕𝒂𝒏𝒕𝒔 𝒕𝒐 𝒊𝒎𝒑𝒓𝒐𝒗𝒆 𝒕𝒉𝒆𝒊𝒓 𝒃𝒖𝒔𝒊𝒏𝒆𝒔𝒔𝒆𝒔 𝒂𝒏𝒅 𝒂𝒄𝒉𝒊𝒆𝒗𝒆 𝒕𝒉𝒆𝒊𝒓 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒈𝒐𝒂𝒍𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒘𝒆𝒃 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒂𝒏𝒅 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.<br>
 𝑰𝒇 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅 𝒎𝒚 𝒉𝒆𝒍𝒑, 𝒅𝒐 𝒏𝒐𝒕 𝒉𝒆𝒔𝒊𝒕𝒂𝒕𝒆 𝒕𝒐 𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒎𝒆 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒎𝒚 𝒔𝒐𝒄𝒊𝒂𝒍 𝒏𝒆𝒕𝒘𝒐𝒓𝒌𝒔 𝒐𝒓 𝒃𝒚 𝒆𝒎𝒂𝒊𝒍.</p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alejandro-ochando-garcía-granada)](www.linkedin.com/in/alejandro-ochando-garcía-granada)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-ochando-garcía-granada)](https://www.linkedin.com/in/alejandro-ochando-garcía-granada)
 [![Gmail Badge](https://img.shields.io/badge/-Alejandro-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alejandro.ochando@live.com)](mailto:alejandro.ochando@live.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Alejandro-Ochando.Alejandro-Ochando)
 
