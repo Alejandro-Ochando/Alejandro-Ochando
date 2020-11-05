@@ -65,8 +65,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
        <td width="25%" align="center">
-        <span>𝘾𝙨𝙨3</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>𝓡𝓮𝓪𝓬𝓽</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
         <span>𝙊𝙧𝙖𝙘𝙡𝙚</span><br><br>
@@ -83,14 +83,23 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝘽𝙤𝙤𝙩𝙨𝙩𝙧𝙖𝙥</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+       <span>𝘾𝙨𝙨3</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
     </tr>
     <tr valign="top">
     <td width="25%" align="center">
         <span>𝘾</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝘽𝙤𝙤𝙩𝙨𝙩𝙧𝙖𝙥</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+    <td width="25%" align="center">
+      '
       </td>
       <td width="25%" align="center">
         <span>𝙎𝙖𝙨𝙨/𝙎𝘾𝙎𝙎</span><br><br>
