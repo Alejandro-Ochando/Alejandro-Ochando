@@ -60,8 +60,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>---</span><br><br>
-        <img height="64px" src="#">
+        <span></span><br><br>
+        <img height="64px" src="">
       </td>
        <td width="25%" align="center">
         <span>𝓡𝓮𝓪𝓬𝓽</span><br><br>
