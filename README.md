@@ -60,10 +60,6 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝙋𝙝𝙥</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
        <td width="25%" align="center">
         <span>𝓡𝓮𝓪𝓬𝓽</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
@@ -78,10 +74,6 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝙇𝙖𝙧𝙖𝙫𝙚𝙡</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-      </td>
       <td width="25%" align="center">
        <span>𝘾𝙨𝙨3</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
@@ -100,10 +92,6 @@
     <tr valign="top">
     <td width="25%" align="center">
       '
-      </td>
-      <td width="25%" align="center">
-        <span>𝙎𝙖𝙨𝙨/𝙎𝘾𝙎𝙎</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
     </tr>
   </tbody>
