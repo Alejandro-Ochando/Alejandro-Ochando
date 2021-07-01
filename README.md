@@ -79,7 +79,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span></span><br><br>
-       
+        <img height="64px" src="">
       </td>
       <td width="25%" align="center">
        <span>𝘾𝙨𝙨3</span><br><br>
@@ -102,7 +102,7 @@
       </td>
       <td width="25%" align="center">
         <span></span><br><br>
-        
+        <img height="64px" src="">
       </td>
     </tr>
   </tbody>
@@ -156,4 +156,6 @@
 #### With much ❤️ by Alejandro.
  
  
+</div>
+
 </div>
