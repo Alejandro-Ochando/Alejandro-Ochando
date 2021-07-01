@@ -78,8 +78,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>---</span><br><br>
-        <img height="64px" src="#">
+        <span></span><br><br>
+       
       </td>
       <td width="25%" align="center">
        <span>𝘾𝙨𝙨3</span><br><br>
@@ -101,8 +101,8 @@
       '
       </td>
       <td width="25%" align="center">
-        <span>---</span><br><br>
-        <img height="64px" src="#">
+        <span></span><br><br>
+        
       </td>
     </tr>
   </tbody>
