@@ -1,4 +1,3 @@
-
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 
@@ -60,6 +59,10 @@
       </td>
     </tr>
     <tr valign="top">
+      <td width="25%" align="center">
+        <span>---</span><br><br>
+        <img height="64px" src="#">
+      </td>
        <td width="25%" align="center">
         <span>𝓡𝓮𝓪𝓬𝓽</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
@@ -74,6 +77,10 @@
       </td>
     </tr>
     <tr valign="top">
+      <td width="25%" align="center">
+        <span>---</span><br><br>
+        <img height="64px" src="#">
+      </td>
       <td width="25%" align="center">
        <span>𝘾𝙨𝙨3</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
@@ -92,6 +99,10 @@
     <tr valign="top">
     <td width="25%" align="center">
       '
+      </td>
+      <td width="25%" align="center">
+        <span>---</span><br><br>
+        <img height="64px" src="#">
       </td>
     </tr>
   </tbody>
